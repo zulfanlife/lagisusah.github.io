@@ -1,8 +1,8 @@
 title: Lagi Susah
 description: Tempat Download Aplikasi
 
-url: "http://lagisusah.github.com"
-baseurl: "http://lagisusah.github.com"
+url: "http://lagisusah.github.io"
+baseurl: "http://lagisusah.github.io"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
